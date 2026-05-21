@@ -3,7 +3,17 @@
 Enterprise-grade JMeter, K6, Gatling, and API performance testing templates for banking, fintech, enterprise applications, scalability testing, and load testing scenarios.
 
 Maintained by Avekshaa Technologies — experts in Application Performance Engineering and Quality Assurance.
+## Performance Dashboard
 
+![JMeter Dashboard](images/jmeter-dashboard.png)
+
+## TPS Analysis
+
+![TPS Graph](images/tps-performance-graph.png)
+
+## Load Testing Workflow
+
+![Workflow](images/load-testing-workflow.png)
 ---
 
 ## Included Templates
